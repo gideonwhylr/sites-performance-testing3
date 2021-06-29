@@ -1,0 +1,93 @@
+---
+{
+  "stream": {
+    "$id": "locations",
+    "source": "knowledgeGraph",
+    "destination": "pages",
+    "fields": [
+        "uid",
+        "id",
+        "geomodifier",
+        "additionalHoursText",
+        "address",
+        "alternatePhone",
+        "description",
+        "hours",
+        "logo",
+        "name",
+        "cityCoordinate",
+        "emails",
+        "fax",
+        "featuredMessage",
+        "photoGallery",
+        "geocodedCoordinate",
+        "isoRegionCode",
+        "localPhone",
+        "mainPhone",
+        "menuUrl",
+        "mobilePhone",
+        "orderUrl",
+        "paymentOptions",
+        "priceRange",
+        "products",
+        "reservationUrl",
+        "services",
+        "specialities",
+        "timezone",
+        "tollFreePhone",
+        "ttyPhone",
+        "websiteUrl",
+        "yearEstablished",
+        "yextDisplayCoordinate",
+        "yextRoutableCoordinate"
+    ],
+    "filter": {
+        "entityTypes": [
+        "location"
+        ]
+    }
+  },
+  "urlFormat": "{{id}}"
+  
+}
+---
+<html>
+    <body>
+    
+        <h1> Sites Performance Testing </h1>
+        
+        <h2> Data </h2> 
+
+        <p> <strong>Name:</strong> {{name}} </p>
+        
+        <p> <strong>Address: </strong> {{ address }} </p>
+        <p><strong> Hours:</strong> {{ hours }}</p>
+        <p> <strong> Phone: </strong> {{mainPhone}} </p>
+        <p> <strong> Description: </strong> {{description}} </p>
+        <p> <strong> Alternate Phone: </strong>{{alternatePhone}} </p>
+        <p> <strong> Geomodifier: </strong> {{geomodifier}} </p>        
+        <p> <strong> Emails: </strong> {{emails}} </p>
+        <p> <strong> Fax: </strong> {{fax}} </p>
+        <p> <strong> Featured Message: </strong> {{featuredMessage}} </p>
+        <p> <strong> Photo Gallery: </strong> {{photoGallery}} </p>
+        <p> <strong> Geocoordinates: </strong> {{geocodedCoordinate}} </p>
+               
+        <p> <strong> Local Phone: </strong> {{localPhone}} </p>               
+        <p> <strong> Menu Phone: </strong> {{menuUrl}} </p>        
+        <p> <strong> Mobile Phone: </strong> {{mobilePhone}} </p>        
+        <p> <strong> Order URL: </strong> {{orderUrl}} </p>        
+        <p> <strong> Payment Options: </strong> {{paymentOptions}} </p>
+        <p> <strong> Price Range: </strong> {{priceRange}} </p>
+        <p> <strong> Products: </strong> {{products}} </p>
+        <p> <strong> Reservation URL: </strong> {{reservationUrl}} </p>
+        <p> <strong> Services: </strong> {{services}} </p>
+        <p> <strong> Timezone: </strong> {{timezone}} </p>
+        <p> <strong> Toll Free Phone: </strong> {{tollFreePhone}} </p>
+        <p> <strong> Website URL: </strong> {{websiteUrl}} </p>
+        <p> <strong> Year Established: </strong> {{yearEstablished}} </p>
+        <p> <strong> Region Code: </strong> {{isoRegionCode}} </p>
+        <p> <strong> Yext Display Coordinates: </strong> {{yextDisplayCoordinate}} </p>
+        <p> <strong> Yext Routable Coordinates: </strong> {{yextRoutableCoordinate}} </p>
+        
+    </body>
+</html>

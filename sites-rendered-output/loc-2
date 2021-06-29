@@ -1,0 +1,40 @@
+<html>
+    <body>
+    
+        <h1> Sites Performance Testing </h1>
+        
+        <h2> Data </h2> 
+
+        <p> <strong>Name:</strong> Location 2 </p>
+        
+        <p> <strong>Address: </strong> map[city:New York countryCode:US line1:92 River Road postalCode:10463 region:NY] </p>
+        <p><strong> Hours:</strong> map[friday:map[isClosed:%!s(bool=false) openIntervals:[map[end:12:00 start:10:00]]] monday:map[isClosed:%!s(bool=false) openIntervals:[map[end:12:00 start:11:00]]] saturday:map[isClosed:%!s(bool=false) openIntervals:[map[end:12:00 start:10:00]]] sunday:map[isClosed:%!s(bool=false) openIntervals:[map[end:12:00 start:10:00]]] thursday:map[isClosed:%!s(bool=false) openIntervals:[map[end:12:00 start:10:00]]] tuesday:map[isClosed:%!s(bool=false) openIntervals:[map[end:12:00 start:10:00]]] wednesday:map[isClosed:%!s(bool=false) openIntervals:[map[end:12:00 start:10:00]]]]</p>
+        <p> <strong> Phone: </strong> +13478055634 </p>
+        <p> <strong> Description: </strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+        <p> <strong> Alternate Phone: </strong>+13478055645 </p>
+        <p> <strong> Geomodifier: </strong> New York </p>        
+        <p> <strong> Emails: </strong> contact@company.com </p>
+        <p> <strong> Fax: </strong> +13478055649 </p>
+        <p> <strong> Featured Message: </strong> map[description:Welcome to our store! url:http://yext.com] </p>
+        <p> <strong> Photo Gallery: </strong> map[description:Retailer details:Lots of retailers image:map[url:https://a.mktgcdn.com/p/5394VCvIc5Z1g1QJoweyQRqL5sHrb2JpM-20JSUJDMI/275x183.jpg]]map[description:Retailer 2 details:Lots of retailers image:map[url:https://a.mktgcdn.com/p/hwKp5Spb9ilPgCdEwyHTSbhcxMoFSWesRObNl-bDbnA/312x162.jpg]]map[description:Retailer 3 details:Lots of retailers image:map[url:https://a.mktgcdn.com/p/ocOT9KKTjLfKeyUo9bDl-ysgM5c6ciTREbkrhRFEm64/296x170.jpg]]map[description:Retailers 4 details:Lots of retailers image:map[url:https://a.mktgcdn.com/p/bfl70rPfCU5J-GKt7sJCsKJDsyLLpIg7WjZGq6xS2qE/300x168.jpg]] </p>
+        <p> <strong> Geocoordinates: </strong> map[latitude:40.8856694 longitude:-73.9198449] </p>
+               
+        <p> <strong> Local Phone: </strong> +13478055644 </p>               
+        <p> <strong> Menu Phone: </strong> map[displayUrl:http://menu.company.com preferDisplayUrl:%!s(bool=false) url:http://menu.company.com] </p>        
+        <p> <strong> Mobile Phone: </strong> +13478055648 </p>        
+        <p> <strong> Order URL: </strong> map[displayUrl:http://orders.company.com preferDisplayUrl:%!s(bool=false) url:http://orders.company.com] </p>        
+        <p> <strong> Payment Options: </strong> AMERICANEXPRESSANDROIDPAYCASHDINERSCLUBDISCOVER </p>
+        <p> <strong> Price Range: </strong> THREE </p>
+        <p> <strong> Products: </strong> GroceriesStaplesEssentialsNecessities </p>
+        <p> <strong> Reservation URL: </strong> map[displayUrl:http://reservations.company.com preferDisplayUrl:%!s(bool=false) url:http://reservations.company.com] </p>
+        <p> <strong> Services: </strong> Service 1Service 2Service 3Service 4 </p>
+        <p> <strong> Timezone: </strong> America/New_York </p>
+        <p> <strong> Toll Free Phone: </strong> +13478055647 </p>
+        <p> <strong> Website URL: </strong> map[displayUrl:http://company.com preferDisplayUrl:%!s(bool=false) url:http://company.com] </p>
+        <p> <strong> Year Established: </strong> 1910 </p>
+        <p> <strong> Region Code: </strong> NY </p>
+        <p> <strong> Yext Display Coordinates: </strong> map[latitude:40.88581358125221 longitude:-73.920036107012] </p>
+        <p> <strong> Yext Routable Coordinates: </strong> map[latitude:40.88573449732672 longitude:-73.91977593273755] </p>
+        
+    </body>
+</html>

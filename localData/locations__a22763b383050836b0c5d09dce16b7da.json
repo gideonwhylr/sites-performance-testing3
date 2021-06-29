@@ -1,0 +1,195 @@
+{
+	"geomodifier": "New York",
+	"geocodedCoordinate": {
+		"latitude": 40.8856694,
+		"longitude": -73.9198449
+	},
+	"orderUrl": {
+		"url": "http://orders.company.com",
+		"displayUrl": "http://orders.company.com",
+		"preferDisplayUrl": false
+	},
+	"paymentOptions": [
+		"AMERICANEXPRESS",
+		"ANDROIDPAY",
+		"CASH",
+		"DINERSCLUB",
+		"DISCOVER"
+	],
+	"products": [
+		"Groceries",
+		"Staples",
+		"Essentials",
+		"Necessities"
+	],
+	"reservationUrl": {
+		"displayUrl": "http://reservations.company.com",
+		"preferDisplayUrl": false,
+		"url": "http://reservations.company.com"
+	},
+	"timezone": "America/New_York",
+	"tollFreePhone": "+13478055647",
+	"cityCoordinate": {
+		"latitude": 40.7820015,
+		"longitude": -73.8317032
+	},
+	"emails": [
+		"contact@company.com"
+	],
+	"fax": "+13478055649",
+	"ttyPhone": "+13478055650",
+	"uid": 23012066,
+	"localPhone": "+13478055644",
+	"mobilePhone": "+13478055648",
+	"websiteUrl": {
+		"displayUrl": "http://company.com",
+		"preferDisplayUrl": false,
+		"url": "http://company.com"
+	},
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+	"isoRegionCode": "NY",
+	"menuUrl": {
+		"url": "http://menu.company.com",
+		"displayUrl": "http://menu.company.com",
+		"preferDisplayUrl": false
+	},
+	"id": "loc-619",
+	"alternatePhone": "+13478055645",
+	"hours": {
+		"tuesday": {
+			"isClosed": false,
+			"openIntervals": [
+				{
+					"end": "12:00",
+					"start": "10:00"
+				}
+			]
+		},
+		"monday": {
+			"isClosed": false,
+			"openIntervals": [
+				{
+					"end": "12:00",
+					"start": "11:00"
+				}
+			]
+		},
+		"saturday": {
+			"openIntervals": [
+				{
+					"end": "12:00",
+					"start": "10:00"
+				}
+			],
+			"isClosed": false
+		},
+		"thursday": {
+			"isClosed": false,
+			"openIntervals": [
+				{
+					"end": "12:00",
+					"start": "10:00"
+				}
+			]
+		},
+		"friday": {
+			"isClosed": false,
+			"openIntervals": [
+				{
+					"end": "12:00",
+					"start": "10:00"
+				}
+			]
+		},
+		"sunday": {
+			"isClosed": false,
+			"openIntervals": [
+				{
+					"end": "12:00",
+					"start": "10:00"
+				}
+			]
+		},
+		"wednesday": {
+			"isClosed": false,
+			"openIntervals": [
+				{
+					"end": "12:00",
+					"start": "10:00"
+				}
+			]
+		}
+	},
+	"services": [
+		"Service 1",
+		"Service 2",
+		"Service 3",
+		"Service 4"
+	],
+	"yearEstablished": 1910,
+	"yextDisplayCoordinate": {
+		"latitude": 40.8858307,
+		"longitude": -73.9200059
+	},
+	"yextRoutableCoordinate": {
+		"latitude": 40.8857851,
+		"longitude": -73.9197524
+	},
+	"logo": {
+		"details": "Lots of logos",
+		"image": {
+			"alternateText": "A different take on logos",
+			"url": "https://a.mktgcdn.com/p/ZbRRwa7pwFGme8ol22pjkBgNkR2xKsXH8gbne1O--Bo/300x300.jpg"
+		},
+		"description": "Logo"
+	},
+	"featuredMessage": {
+		"description": "Welcome to our store!",
+		"url": "http://yext.com"
+	},
+	"specialities": [
+		"Goods",
+		"Services"
+	],
+	"additionalHoursText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i",
+	"address": {
+		"region": "NY",
+		"line1": "709 River Road",
+		"postalCode": "10463",
+		"city": "New York",
+		"countryCode": "US"
+	},
+	"name": "Location 619",
+	"photoGallery": [
+		{
+			"image": {
+				"url": "https://a.mktgcdn.com/p/5394VCvIc5Z1g1QJoweyQRqL5sHrb2JpM-20JSUJDMI/275x183.jpg"
+			},
+			"description": "Retailer",
+			"details": "Lots of retailers"
+		},
+		{
+			"description": "Retailer 2",
+			"details": "Lots of retailers",
+			"image": {
+				"url": "https://a.mktgcdn.com/p/hwKp5Spb9ilPgCdEwyHTSbhcxMoFSWesRObNl-bDbnA/312x162.jpg"
+			}
+		},
+		{
+			"image": {
+				"url": "https://a.mktgcdn.com/p/ocOT9KKTjLfKeyUo9bDl-ysgM5c6ciTREbkrhRFEm64/296x170.jpg"
+			},
+			"description": "Retailer 3",
+			"details": "Lots of retailers"
+		},
+		{
+			"image": {
+				"url": "https://a.mktgcdn.com/p/bfl70rPfCU5J-GKt7sJCsKJDsyLLpIg7WjZGq6xS2qE/300x168.jpg"
+			},
+			"description": "Retailers 4",
+			"details": "Lots of retailers"
+		}
+	],
+	"mainPhone": "+13478055634",
+	"priceRange": "THREE"
+}
